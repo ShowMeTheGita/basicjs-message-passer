@@ -1,5 +1,5 @@
 #  [BasicJS Projects] ![jslogo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/64px-JavaScript-logo.png) 
-##  Image Slider
+##  Message Passer
 
 Part of the "BasicJS Projects" series of repositories containing simple JavaScript projects for practicing basic features. Based on some of [Coding Addict's](https://www.youtube.com/channel/UCMZFwxv5l-XtKi693qMJptA) JavaScript projects.
 
